@@ -1,0 +1,49 @@
+p {
+    color: #ffa518;
+    font-size: 28px;
+}
+
+.paragraph {
+    color: #188000;
+}
+
+#paragraph {
+    color: #ff0000;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #ffc0cb;
+}
+
+div.container-one, div.container-two span {
+    font-size: 28px;
+}
+
+div.container-one p {
+    color: #0207d0;
+    font-size: 12px;
+    border-bottom: solid black 1px;
+}
+
+div.container-two p {
+    color: purple;
+    font-size: 15px;
+    margin-left: 10px;
+    border-bottom: solid black 1px;
+}
+
+div.container-two p span{
+    color: grey;
+    font-size: 12px;
+}
+
+body div .container-one.container-two p{
+    font-size: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+body .container-one.container-two {
+    color: #ffa518;
+    font-size: 28px;
+}
